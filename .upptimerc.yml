@@ -19,8 +19,8 @@ sites:
     url: https://alumnos.sigma.uva.es/cosmos/Controlador/?apl=Uninavs&gu=a&idNav=inicio&NombreUsuarioAlumno=EXPSINCON&servicio=CEXP1&NuevaSesionUsuario=true&ambito=MENU&responsive=S&pais=ES&idioma=es
   - name: Proxmox Informática (UVa)
     url: https://matrix.inf.uva.es/
-  - name: Sugus UVa
-    url: https://sugusuva.es/eventos
+  #- name: Sugus UVa
+  #  url: https://sugusuva.es/eventos
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -33,7 +33,7 @@ status-website:
   introMessage: Estado en tiempo real gestionado con GitHub Actions. [**Crea el tuyo gratis**](https://github.com/upptime/upptime).
   navbar:
     - title: Status
-      href: /
+      href: baseUrl # Antes fallaba porque iba solo a "/"
     - title: Repositorio en GitHub
       href: https://github.com/$OWNER/$REPO
 
