@@ -16,11 +16,11 @@ sites:
   - name: Telecomunicaciones
     url: https://www.tel.uva.es/
   - name: Sigma Alumnos
-    url: https://alumnos.sigma.uva.es/
+    url: https://alumnos.sigma.uva.es/cosmos/Controlador/?apl=Uninavs&gu=a&idNav=inicio&NombreUsuarioAlumno=EXPSINCON&servicio=CEXP1&NuevaSesionUsuario=true&ambito=MENU&responsive=S&pais=ES&idioma=es
   - name: Proxmox Informática (UVa)
     url: https://matrix.inf.uva.es/
   - name: Sugus UVa
-    url: https://sugusuva.es
+    url: https://sugusuva.es/eventos
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
