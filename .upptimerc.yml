@@ -1,36 +1,115 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: GrupoUniversitarioDeInformatica # Your GitHub organization or username, where this repository lives
+repo: status-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Frontend (GUI self-hosted)
+    url: https://gui.inf.uva.es/
+  - name: Overleaf (GUI self-hosted)
+    url: https://overleaf.gui.inf.uva.es
+  - name: GitLab Informática
+    url: https://gitlab.inf.uva.es/
+  - name: Universidad de Valladolid - Informática
+    url: https://www.inf.uva.es/
+  - name: Universidad de Valladolid - Principal
+    url: https://www.uva.es/
+  - name: Telecomunicaciones
+    url: https://www.tel.uva.es/
+  - name: Sigma Alumnos
+    url: https://alumnos.sigma.uva.es/
+  - name: Proxmox Informática (UVa)
+    url: https://matrix.inf.uva.es/
+  - name: Sugus UVa
+    url: https://sugusuva.es
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #cname: status.gui.inf.uvs.es # pendiente de aprobar el dominio ...
+  baseUrl: /status-upptime
+  logoUrl: https://avatars.githubusercontent.com/u/190085492?s=200&v=4
+  name: Uptime Status
+  introTitle: "**Upptime**: Monitor de uptime y página de estado open-source con GitHub Actions."
+  introMessage: Estado en tiempo real gestionado con GitHub Actions. [**Crea el tuyo gratis**](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Repositorio en GitHub
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+# Traducciones para español-inglés con i18n.
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
+  incidentReport: "Informe del incidente #$NUMBER →"
+  activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
+  incidentTitle: Detalles del incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Arreglado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
+  liveStatus: Estado en vivo
+  overallUptime: "Tiempo de actividad total: $UPTIME"
+  overallUptimeTitle: Tiempo de actividad total
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Arriba
+  down: Abajo
+  degraded: Degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: Esta página es [open source]($REPO), impulsada por [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Límite de solicitudes excedido
+  rateLimitExceededIntro: Has superado el número de solicitudes que puedes hacer por hora, por lo que tendrás que esperar antes de acceder a este sitio web nuevamente. Alternativamente, puedes agregar un GitHub Personal Access Token para seguir utilizando este sitio.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. Por defecto, GitHub permite a cada dirección IP realizar 60 solicitudes por hora, lo cual ya has consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo solucionarlo?
+  rateLimitExceededErrorFix: Puedes esperar otra hora y el límite de tu dirección IP se restablecerá. Alternativamente, puedes agregar tu GitHub Personal Access Token, lo que te otorga 5,000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprende cómo generar un Personal Access Token
+  rateLimitExceededHasSet: Tienes un personal access token configurado.
+  rateLimitExceededRemoveToken: Eliminar token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copia y pega tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ocurrió un error
+  errorIntro: Ocurrió un error al intentar obtener los detalles del estado más reciente.
+  errorText: Puedes intentarlo nuevamente en unos momentos.
+  errorHome: Ir a la página de inicio
+  pastScheduledMaintenance: Mantenimiento programado anterior
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Comenzó el $DATE durante $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Comienza el $DATE durante $DURATION minutos
+  startedAt: Comenzó el
+  startsAt: Comienza el
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completo
+  incidentScheduled: Programado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1a
+  durationAll: todo
+  locale: es-ES
+
+# GH Actions, programado. (al estilo de cron ...)
+workflowSchedule:
+  graphs: "0 0 * * *"             # Ejecutar una vez al día a medianoche
+  responseTime: "0 23 * * *"       # Ejecutar una vez al día a las 11 PM
+  staticSite: "0 1 * * *"          # Ejecutar una vez al día a la 1 AM
+  summary: "0 0 * * *"             # Ejecutar una vez al día a medianoche
+  updateTemplate: "0 0 * * *"      # Ejecutar una vez al día a medianoche
+  updates: "0 3 * * *"             # Ejecutar una vez al día a las 3 AM
+  uptime: "*/5 * * * *"              # Ejecutar una vez cada hora (debido a la limitación de GitHub Actions gratis)
