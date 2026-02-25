@@ -33,7 +33,7 @@ status-website:
   introMessage: Estado en tiempo real gestionado con GitHub Actions. [**Crea el tuyo gratis**](https://github.com/upptime/upptime).
   navbar:
     - title: Status
-      href: baseUrl # Antes fallaba porque iba solo a "/"
+      href: /
     - title: Repositorio en GitHub
       href: https://github.com/$OWNER/$REPO
 
@@ -64,8 +64,8 @@ i18n:
   averageResponseTimeTitle: Respuesta promedio
   sevelDayResponseTime: Tiempo de respuesta de 7 días
   responseTimeMs: Tiempo de respuesta (ms)
-  up: Arriba
-  down: Abajo
+  up: Operativo
+  down: Caído
   degraded: Degradado
   ms: ms
   loading: Cargando
