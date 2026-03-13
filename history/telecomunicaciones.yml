@@ -1,7 +1,7 @@
 url: https://www.tel.uva.es/
-status: up
-code: 200
-responseTime: 829
-lastUpdated: 2026-03-12T23:33:34.410Z
+status: down
+code: 403
+responseTime: 658
+lastUpdated: 2026-03-13T13:07:08.849Z
 startTime: 2026-02-18T19:33:34.903Z
 generator: Upptime <https://github.com/upptime/upptime>
