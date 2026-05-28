@@ -82,17 +82,17 @@
     "url": "https://www.uva.es/",
     "icon": "https://icons.duckduckgo.com/ip3/www.uva.es.ico",
     "slug": "universidad-de-valladolid-principal",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.45%",
-    "time": 1235,
-    "timeDay": 1284,
-    "timeWeek": 1629,
-    "timeMonth": 1638,
-    "timeYear": 1235,
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.39%",
+    "time": 1245,
+    "timeDay": 1820,
+    "timeWeek": 1710,
+    "timeMonth": 1658,
+    "timeYear": 1245,
     "dailyMinutesDown": {
       "2026-03-03": 104,
       "2026-03-04": 373,
@@ -101,7 +101,7 @@
       "2026-05-13": 69,
       "2026-05-15": 54,
       "2026-05-25": 71,
-      "2026-05-28": 1
+      "2026-05-28": 90
     }
   },
   {
@@ -110,11 +110,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tel.uva.es.ico",
     "slug": "telecomunicaciones",
     "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.02%",
+    "uptime": "98.96%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "98.96%",
     "time": 1122,
     "timeDay": 976,
     "timeWeek": 1122,
@@ -127,7 +127,7 @@
       "2026-03-20": 361,
       "2026-03-22": 24,
       "2026-04-29": 109,
-      "2026-05-28": 0
+      "2026-05-28": 90
     }
   },
   {
