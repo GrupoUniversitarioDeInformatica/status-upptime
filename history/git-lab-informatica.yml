@@ -1,7 +1,7 @@
 url: https://gitlab.inf.uva.es/
-status: up
-code: 200
-responseTime: 1356
-lastUpdated: 2026-05-29T00:14:23.617Z
+status: down
+code: 502
+responseTime: 724
+lastUpdated: 2026-05-29T19:12:15.293Z
 startTime: 2026-02-18T19:33:30.397Z
 generator: Upptime <https://github.com/upptime/upptime>
