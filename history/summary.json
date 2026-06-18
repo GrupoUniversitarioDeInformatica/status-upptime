@@ -117,17 +117,17 @@
     "url": "https://www.tel.uva.es/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tel.uva.es.ico",
     "slug": "telecomunicaciones",
-    "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.78%",
-    "time": 1132,
-    "timeDay": 1080,
-    "timeWeek": 1176,
-    "timeMonth": 1183,
-    "timeYear": 1132,
+    "status": "up",
+    "uptime": "98.67%",
+    "uptimeDay": "86.52%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "98.67%",
+    "time": 1131,
+    "timeDay": 1058,
+    "timeWeek": 1158,
+    "timeMonth": 1178,
+    "timeYear": 1131,
     "dailyMinutesDown": {
       "2026-03-02": 55,
       "2026-03-13": 58,
@@ -137,7 +137,7 @@
       "2026-04-29": 109,
       "2026-05-29": 593,
       "2026-05-28": 108,
-      "2026-06-18": 0
+      "2026-06-18": 194
     }
   },
   {
