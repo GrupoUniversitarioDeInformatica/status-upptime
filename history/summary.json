@@ -40,23 +40,24 @@
     "url": "https://gitlab.inf.uva.es/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.inf.uva.es.ico",
     "slug": "git-lab-informatica",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.43%",
-    "time": 1364,
-    "timeDay": 1089,
-    "timeWeek": 1492,
-    "timeMonth": 1444,
-    "timeYear": 1364,
+    "time": 1361,
+    "timeDay": 891,
+    "timeWeek": 1393,
+    "timeMonth": 1422,
+    "timeYear": 1361,
     "dailyMinutesDown": {
       "2026-05-29": 125,
       "2026-05-30": 743,
       "2026-05-31": 569,
       "2026-06-02": 228,
-      "2026-08-19": 23
+      "2026-08-19": 23,
+      "2026-09-11": 0
     }
   },
   {
