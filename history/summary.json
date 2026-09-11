@@ -13,7 +13,7 @@
     "time": 773,
     "timeDay": 517,
     "timeWeek": 622,
-    "timeMonth": 640,
+    "timeMonth": 638,
     "timeYear": 773,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1849,
     "timeDay": 1331,
     "timeWeek": 1595,
-    "timeMonth": 1732,
+    "timeMonth": 1727,
     "timeYear": 1849,
     "dailyMinutesDown": {}
   },
@@ -40,24 +40,24 @@
     "url": "https://gitlab.inf.uva.es/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.inf.uva.es.ico",
     "slug": "git-lab-informatica",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.43%",
-    "time": 1361,
-    "timeDay": 891,
-    "timeWeek": 1393,
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.39%",
+    "time": 1362,
+    "timeDay": 1072,
+    "timeWeek": 1397,
     "timeMonth": 1422,
-    "timeYear": 1361,
+    "timeYear": 1362,
     "dailyMinutesDown": {
       "2026-05-29": 125,
       "2026-05-30": 743,
       "2026-05-31": 569,
       "2026-06-02": 228,
       "2026-08-19": 23,
-      "2026-09-11": 0
+      "2026-09-11": 119
     }
   },
   {
@@ -74,7 +74,7 @@
     "time": 1788,
     "timeDay": 1441,
     "timeWeek": 1530,
-    "timeMonth": 1605,
+    "timeMonth": 1601,
     "timeYear": 1788,
     "dailyMinutesDown": {
       "2026-03-07": 34,
@@ -102,7 +102,7 @@
     "time": 1507,
     "timeDay": 1715,
     "timeWeek": 1803,
-    "timeMonth": 1867,
+    "timeMonth": 1851,
     "timeYear": 1507,
     "dailyMinutesDown": {
       "2026-03-03": 104,
@@ -132,7 +132,7 @@
     "time": 1187,
     "timeDay": 1154,
     "timeWeek": 1308,
-    "timeMonth": 1334,
+    "timeMonth": 1320,
     "timeYear": 1187,
     "dailyMinutesDown": {
       "2026-03-02": 55,
@@ -162,7 +162,7 @@
     "time": 751,
     "timeDay": 610,
     "timeWeek": 706,
-    "timeMonth": 741,
+    "timeMonth": 734,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2026-03-02": 143,
@@ -183,7 +183,7 @@
     "time": 750,
     "timeDay": 660,
     "timeWeek": 755,
-    "timeMonth": 785,
+    "timeMonth": 782,
     "timeYear": 750,
     "dailyMinutesDown": {}
   }
