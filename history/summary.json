@@ -13,7 +13,7 @@
     "time": 765,
     "timeDay": 695,
     "timeWeek": 617,
-    "timeMonth": 650,
+    "timeMonth": 649,
     "timeYear": 765,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1838,
     "timeDay": 2033,
     "timeWeek": 1661,
-    "timeMonth": 1722,
+    "timeMonth": 1723,
     "timeYear": 1838,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1360,
     "timeDay": 1354,
     "timeWeek": 1348,
-    "timeMonth": 1407,
+    "timeMonth": 1396,
     "timeYear": 1360,
     "dailyMinutesDown": {
       "2026-05-29": 125,
@@ -70,17 +70,17 @@
     "url": "https://www.inf.uva.es/",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.uva.es.ico",
     "slug": "universidad-de-valladolid-informatica",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.61%",
-    "time": 1766,
-    "timeDay": 1339,
-    "timeWeek": 1401,
-    "timeMonth": 1560,
-    "timeYear": 1766,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "87.57%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.55%",
+    "time": 1765,
+    "timeDay": 1416,
+    "timeWeek": 1415,
+    "timeMonth": 1559,
+    "timeYear": 1765,
     "dailyMinutesDown": {
       "2026-03-07": 34,
       "2026-03-17": 48,
@@ -94,7 +94,7 @@
       "2026-09-19": 299,
       "2026-09-21": 56,
       "2026-09-20": 49,
-      "2026-09-25": 0
+      "2026-09-25": 179
     }
   },
   {
@@ -141,7 +141,7 @@
     "time": 1194,
     "timeDay": 1231,
     "timeWeek": 1231,
-    "timeMonth": 1327,
+    "timeMonth": 1324,
     "timeYear": 1194,
     "dailyMinutesDown": {
       "2026-03-02": 55,
@@ -172,7 +172,7 @@
     "time": 751,
     "timeDay": 777,
     "timeWeek": 749,
-    "timeMonth": 746,
+    "timeMonth": 745,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2026-03-02": 143,
@@ -193,7 +193,7 @@
     "time": 750,
     "timeDay": 705,
     "timeWeek": 743,
-    "timeMonth": 773,
+    "timeMonth": 769,
     "timeYear": 750,
     "dailyMinutesDown": {}
   }
