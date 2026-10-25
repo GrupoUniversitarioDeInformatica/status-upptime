@@ -74,16 +74,16 @@
     "url": "https://www.inf.uva.es/",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.uva.es.ico",
     "slug": "universidad-de-valladolid-informatica",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "99.27%",
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "53.70%",
+    "uptimeWeek": "87.93%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "99.11%",
     "time": 2023,
-    "timeDay": 51052,
-    "timeWeek": 5871,
-    "timeMonth": 3580,
+    "timeDay": 26494,
+    "timeWeek": 5543,
+    "timeMonth": 3540,
     "timeYear": 2023,
     "dailyMinutesDown": {
       "2026-03-07": 34,
@@ -103,7 +103,7 @@
       "2026-09-27": 361,
       "2026-10-20": 204,
       "2026-10-21": 346,
-      "2026-10-25": 64
+      "2026-10-25": 667
     }
   },
   {
